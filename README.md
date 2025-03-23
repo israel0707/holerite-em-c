@@ -67,8 +67,6 @@ int main(void)
 			else
 			{
 			}
-            printf ("insira seu email(gmail).....:")
-
 	 //contas
 
         reajuste =  (salario_bruto * 38 ) / 100 + salario_bruto;      
